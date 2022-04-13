@@ -17,3 +17,4 @@ test_violence_detection.ipynb is to test the violence detection model.Specify th
 
 Reference :
 W. Sultani, C. Chen and M. Shah, "Real-World Anomaly Detection in Surveillance Videos," 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition, Salt Lake City, UT, 2018, pp. 6479-6488, doi: 10.1109/CVPR.2018.00678.
+example
